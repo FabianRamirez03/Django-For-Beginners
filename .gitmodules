@@ -1,3 +1,6 @@
 [submodule "ch3-pages"]
 	path = ch3-pages
 	url = https://github.com/FabianRamirez03/ch3-pages
+[submodule "ch4-message-board"]
+	path = ch4-message-board
+	url = https://github.com/FabianRamirez03/ch4-message-board
